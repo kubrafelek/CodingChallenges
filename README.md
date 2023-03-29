@@ -1,2 +1,3 @@
-# CodingChallenges
-LeetCode, Youtube etc. 
+## CodingChallenges
+- LeetCode, Youtube and general coding questions 
+
